@@ -1,0 +1,62 @@
+2023-12-07 17:41:06 INFO ====== WebDriver manager ======
+2023-12-07 17:41:08 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:41:08 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:41:09 INFO Driver [C:\Users\Костя\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-07 17:41:11 INFO Test 1 - Star
+2023-12-07 17:41:13 INFO Send "test" to element //*[@id="login"]/div[1]/label/input
+2023-12-07 17:41:13 INFO Send "test" to element //*[@id="login"]/div[2]/label/input
+2023-12-07 17:41:14 INFO Click button - "Login"
+2023-12-07 17:41:15 INFO We find text "401" in error field //*[@id="app"]/main/div/div/div[2]/h2 
+2023-12-07 17:41:15 INFO Test 1 - Finish
+2023-12-07 17:41:23 INFO ====== WebDriver manager ======
+2023-12-07 17:41:25 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:41:25 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:41:26 INFO Driver [C:\Users\Костя\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-07 17:41:28 INFO Test 2 - Star
+2023-12-07 17:41:29 INFO Send "Ivan2010" to element //*[@id="login"]/div[1]/label/input
+2023-12-07 17:41:30 INFO Send "8673c79ee4" to element //*[@id="login"]/div[2]/label/input
+2023-12-07 17:41:30 INFO Click button - "Login"
+2023-12-07 17:41:32 INFO We find text "Blog" in field Blog //*[@id="app"]/main/div/div[1]/h1 
+2023-12-07 17:41:32 INFO Test 2 - Finish
+2023-12-07 17:41:40 INFO ====== WebDriver manager ======
+2023-12-07 17:41:42 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:41:43 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:41:43 INFO Driver [C:\Users\Костя\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-07 17:41:45 INFO Test 3 - Star
+2023-12-07 17:41:46 INFO Send "Ivan2010" to element //*[@id="login"]/div[1]/label/input
+2023-12-07 17:41:47 INFO Send "8673c79ee4" to element //*[@id="login"]/div[2]/label/input
+2023-12-07 17:41:47 INFO Click button - "Login"
+2023-12-07 17:41:47 INFO Click button - "Create post"
+2023-12-07 17:41:50 INFO Send "New_post" to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+2023-12-07 17:41:50 INFO Send "Hello my friend" to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+2023-12-07 17:41:50 INFO Send "Hi" to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+2023-12-07 17:41:51 INFO Send "04.12.20023" to element //*[@id="create-item"]/div/div/div[5]/div/div/label/input
+2023-12-07 17:41:51 INFO Click button - "Save"
+2023-12-07 17:41:53 INFO We find text "New_post" in field Title //*[@id="app"]/main/div/div[1]/h1 
+2023-12-07 17:41:53 INFO Test 3 - Finish
+2023-12-07 17:42:01 INFO ====== WebDriver manager ======
+2023-12-07 17:42:03 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:42:04 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:42:04 INFO Driver [C:\Users\Костя\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-07 17:42:06 INFO Test 4 - Star
+2023-12-07 17:42:08 INFO Send "Ivan2010" to element //*[@id="login"]/div[1]/label/input
+2023-12-07 17:42:08 INFO Send "8673c79ee4" to element //*[@id="login"]/div[2]/label/input
+2023-12-07 17:42:08 INFO Click button - "Login"
+2023-12-07 17:42:08 INFO Click button - "Contact"
+2023-12-07 17:42:13 INFO We find text "Contact us!" in field Title //*[@id="app"]/main/div/div/h1 
+2023-12-07 17:42:13 INFO Test 4 - Finish
+2023-12-07 17:42:21 INFO ====== WebDriver manager ======
+2023-12-07 17:42:23 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:42:23 INFO Get LATEST chromedriver version for google-chrome
+2023-12-07 17:42:24 INFO Driver [C:\Users\Костя\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-07 17:42:26 INFO Test 5 - Star
+2023-12-07 17:42:27 INFO Send "Ivan2010" to element //*[@id="login"]/div[1]/label/input
+2023-12-07 17:42:27 INFO Send "8673c79ee4" to element //*[@id="login"]/div[2]/label/input
+2023-12-07 17:42:28 INFO Click button - "Login"
+2023-12-07 17:42:28 INFO Click button - "Contact"
+2023-12-07 17:42:32 INFO Send "Petr" to element //*[@id="contact"]/div[1]/label/input
+2023-12-07 17:42:32 INFO Send "mail@mail.ru" to element //*[@id="contact"]/div[2]/label/input
+2023-12-07 17:42:32 INFO Send "Hello!!!" to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-12-07 17:42:32 INFO Click button - "CONTACT US"
+2023-12-07 17:42:34 INFO Open alert with message Form successfully submitted
+2023-12-07 17:42:34 INFO Test 5 - Finish
